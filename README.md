@@ -28,11 +28,8 @@
 ![FPGA](https://img.shields.io/badge/-FPGA-0A0A0A?logo=xilinx&logoColor=white)
 ![SoCs](https://img.shields.io/badge/-SoCs-2C3E50?style=flat&logoColor=F1C40F)
 
-### AI & Software
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+### Software
 ![NodeJS](https://img.shields.io/badge/-Node.js-3C873A?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
-![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB)
 ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)
 
 ### Areas of Knowledge
