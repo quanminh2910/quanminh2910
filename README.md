@@ -2,7 +2,7 @@
 
 ###
 
-# 👋 Hi, I'm Quang Tran (quntran)
+# 👋 Hi, I'm Minh Quan 
 
 🎓 Computer Engineering student at Ho Chi Minh University of Technology (HCMUT)  
 🔌 Focused on **Embedded Systems & IoT** — ESP32, RTOS, low-level C, sensors, and real-time applications  
