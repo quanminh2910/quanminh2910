@@ -7,7 +7,7 @@
 🎓 Computer Engineering student at Ho Chi Minh University of Technology (HCMUT)  
 🔌 Focused on **Embedded Systems & IoT** — ESP32, RTOS, low-level C, sensors, and real-time applications  
 ⚙️ Experienced with **FreeRTOS**, task scheduling, hardware drivers, and microcontroller programming  
-🌐 Developing **full-stack tools** that support embedded workflows (NodeJS, APIs, automation)  
+🌐 Developing **Node.js tools** that support embedded workflows
 📫 Contact: **minhquan29102005@gmail.com**
 
 ---
