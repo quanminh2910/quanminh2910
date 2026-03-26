@@ -24,6 +24,7 @@
 
 ### Embedded & Hardware
 ![ESP32](https://img.shields.io/badge/-ESP32-E7352C?logo=espressif&logoColor=white)
+![STM32](https://img.shields.io/badge/-STM32-03234B?logo=stmicroelectronics&logoColor=white)
 ![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-002147?logo=freertos&logoColor=white)
 ![FPGA](https://img.shields.io/badge/-FPGA-0A0A0A?logo=xilinx&logoColor=white)
 ![SoCs](https://img.shields.io/badge/-SoCs-2C3E50?style=flat&logoColor=F1C40F)
