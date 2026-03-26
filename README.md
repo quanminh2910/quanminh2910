@@ -43,6 +43,7 @@
 
 ### 🧩 Featured Projects
 
+<!--
 - <div style="margin-bottom: 25px;">
     🎮 <strong>The Linked Journey (Unity)</strong>
     <img src="https://img.shields.io/badge/Private_Repo-gray?style=flat" height="18" />
@@ -71,6 +72,7 @@
   <div style="margin-left: 22px;">
     Public Repository: https://github.com/quang-tran0/DQN-With-FlappyBird
   </div><br>
+-->
 
 ---
 
