@@ -31,7 +31,7 @@
 ### Software
 ![NodeJS](https://img.shields.io/badge/-Node.js-3C873A?logo=node.js&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)
-
+![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)
 ### Areas of Knowledge
 - Embedded Systems
 - FPGA Design
