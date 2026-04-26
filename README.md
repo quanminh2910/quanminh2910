@@ -25,11 +25,13 @@
 ### Embedded & Hardware
 ![ESP32](https://img.shields.io/badge/-ESP32-E7352C?logo=espressif&logoColor=white)
 ![STM32](https://img.shields.io/badge/-STM32-03234B?logo=stmicroelectronics&logoColor=white)
+![Arty Z7](https://img.shields.io/badge/-Arty%20Z7-111111?logo=xilinx&logoColor=white)
 ![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-002147?logo=freertos&logoColor=white)
 ![FPGA](https://img.shields.io/badge/-FPGA-0A0A0A?logo=xilinx&logoColor=white)
 ![SoCs](https://img.shields.io/badge/-SoCs-2C3E50?style=flat&logoColor=F1C40F)
 
 ### Software
+![MQTT Mosquitto](https://img.shields.io/badge/-MQTT%20Mosquitto-3C5280?logo=eclipsemosquitto&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/-Node.js-3C873A?logo=node.js&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)
 
