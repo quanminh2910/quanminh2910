@@ -39,8 +39,6 @@
 - Embedded Systems
 - FPGA Design
 - System-on-Chip Architecture
-- AI / Machine Learning
-- Full Stack Development
 - Game Development
 
 ### 🧩 Featured Projects
