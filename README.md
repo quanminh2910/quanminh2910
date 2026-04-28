@@ -7,7 +7,7 @@
 🎓 Computer Engineering student at Ho Chi Minh University of Technology (HCMUT)  
 🔌 Focused on **Embedded Systems & IoT** — ESP32, RTOS, low-level C, sensors, and real-time applications  
 ⚙️ Experienced with **FreeRTOS**, task scheduling, hardware drivers, and microcontroller programming  
-🌐 Developing **Node.js tools** that support embedded workflows
+🌐 Developing **Node.js tools** with **Supabase/PostgreSQL** support for embedded workflows   
 📫 Contact: **minhquan29102005@gmail.com**
 
 ---
@@ -31,7 +31,10 @@
 ![SoCs](https://img.shields.io/badge/-SoCs-2C3E50?style=flat&logoColor=F1C40F)
 
 ### Software
+
 ![MQTT Mosquitto](https://img.shields.io/badge/-MQTT%20Mosquitto-3C5280?logo=eclipsemosquitto&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/-Node.js-3C873A?logo=node.js&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)
 
